@@ -1,0 +1,6 @@
+.container a {
+    color: #43485c;
+    font-size: 17px;
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+}
